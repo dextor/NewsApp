@@ -34,7 +34,7 @@ export default function NewsResults() {
 
   return (
     <>
-      <h5>{newsTopic}</h5>
+      <h1>{newsTopic}</h1>
       <div>
         {output}
       </div>

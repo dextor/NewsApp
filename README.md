@@ -1,3 +1,8 @@
+# News App
+A basic news feed app to explore routing and layouts.
+Uses the News API (https://newsapi.org/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
