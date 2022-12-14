@@ -1,0 +1,14 @@
+
+.boldYellowText {
+  font-weight: bold;
+  color: yellow!important;
+}
+
+.myNavbarBrand {
+  composes: boldYellowText;
+  composes: navbar-brand from './../../node_modules/bootstrap/dist/css/bootstrap.min.css'
+}
+
+:global .italicText {
+  font-style: italic;
+}
